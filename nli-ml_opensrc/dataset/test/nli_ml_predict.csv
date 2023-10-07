@@ -1,0 +1,2 @@
+avgPSD [dB_mW/GHz],PSDcorr [dB],SCF_CUT [n.u.],SCF_N [n.u.],Phi_CUT [n.u.],Phi_N [n.u.],SymRate_CUT [GBaud],SymRate_N [GBaud],NLI_inc [dB_mw/GHz]
+-26,2,1.2,1.7,0.010788012,0.028786325,68.4688766,32.936979,-72.1851018
